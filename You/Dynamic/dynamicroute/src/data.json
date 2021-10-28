@@ -1,0 +1,9 @@
+{
+    "Products" :
+    [ 
+    { "name" : "SmartPhone", "price": 30, "image":"https://media.wired.com/photos/6008b7cd103a85a519187c3e/master/pass/Gear-galaxys21_plus_phantom_silver_front.jpg", "id" : 0 },
+     { "name" : "Watch", "price" : 20, "image":"https://cdn.shopify.com/s/files/1/0027/2357/7914/articles/A22A1281_1200x.jpg?v=1597178612", "id" : 1 },
+      { "name" : "Shirt", "price" : 50, "image":"https://scontent-maa2-1.xx.fbcdn.net/v/t1.18169-9/15940680_768477393299249_152733656541017711_n.png?_nc_cat=110&ccb=1-5&_nc_sid=9267fe&_nc_ohc=2WezDugQivcAX-osb67&_nc_ht=scontent-maa2-1.xx&oh=ead25db9a2ef76414a29a29aee438f26&oe=619FEF1A", "id" : 2 },
+       { "name" : "Pants", "price" : 100, "image":"https://5.imimg.com/data5/YO/RA/MY-40698162/mens-cargo-pants-500x500.jpg", "id" : 3 }
+     ]
+}
